@@ -1,0 +1,11 @@
+Model Information:
+* title:	RAILGUN
+* source:	https://sketchfab.com/3d-models/railgun-75f38a240f2142f5b422cfc4ce67279d
+* author:	LUMENE (https://sketchfab.com/LUMENE)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RAILGUN" (https://sketchfab.com/3d-models/railgun-75f38a240f2142f5b422cfc4ce67279d) by LUMENE (https://sketchfab.com/LUMENE) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
